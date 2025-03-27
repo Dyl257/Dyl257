@@ -7,6 +7,7 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
 - <b>PowerShell</b>
+ - [FIM (File Integrity Monitor)](https://github.com/Dyl257/File-Integrity-Monitor-/blob/main/README.md)
 
 - <b>C# (.NET Desktop Applications)</b>
 
