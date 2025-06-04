@@ -11,7 +11,7 @@
     <ul>
       <!-- New Vulnerability Scanning bullet -->
       <li>
-        <a href="https://github.com/Dyl257/Dyl257.git" target="_blank">
+        <a href="https://github.com/Dyl257/Dyl257/tree/Vulnerability" target="_blank">
           Vulnerability Scanning Lab (Azure + Tenable)
         </a>
         – Hands‐on demo of running unauthenticated vs. authenticated scans 
