@@ -1,7 +1,6 @@
 <h1>Hi, I'm Dylan! <br/>
   <a href="https://github.com/Dyl257">Programmer</a>, 
   <a href="">Cybersecurity Professional</a>, 
-  <a href="">YouTuber</a>
 </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
