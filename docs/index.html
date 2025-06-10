@@ -2,16 +2,15 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dylan Fernando • Home</title>
-  <!-- Optional: Link to CSS framework, e.g. Tailwind -->
-  <link href="/assets/styles.css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dylan Fernando • Software & Cybersecurity Portfolio</title>
+  <link rel="stylesheet" href="assets/styles.css" />
 </head>
 <body>
-  <header class="p-4 bg-gray-100 shadow-md">
-    <nav class="container mx-auto flex justify-between items-center">
-      <h1 class="text-2xl font-bold">Dylan Fernando</h1>
-      <ul class="flex space-x-4">
+  <header>
+    <nav>
+      <h1>Dylan Fernando</h1>
+      <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="about.html">About</a></li>
         <li><a href="projects/vuln-scan.html">Projects</a></li>
@@ -20,20 +19,51 @@
     </nav>
   </header>
 
-  <main class="container mx-auto my-12 text-center">
+  <main>
     <section id="hero">
-      <h2 class="text-4xl font-semibold mb-4">Hi, I’m Dylan!</h2>
-      <p class="text-lg mb-6">
-        <a href="https://github.com/Dyl257" class="underline">Programmer</a>,
-        <a href="#" class="underline">Cybersecurity Professional</a>
+      <h2>Hi, I’m Dylan!</h2>
+      <p>
+        I’m a <strong>Software Developer</strong> &amp; 
+        <strong>Cybersecurity Professional</strong> building tools to 
+        secure cloud environments.
       </p>
-      <a href="projects/vuln-scan.html" class="px-6 py-3 border rounded">View My Projects</a>
+      <a href="projects/vuln-scan.html">See My Work</a>
+    </section>
+
+    <section id="featured-projects">
+      <h3>Featured Projects</h3>
+      <div>
+        <article>
+          <h4><a href="projects/vuln-scan.html">Vulnerability Scanning Lab</a></h4>
+          <p>Azure + Tenable scans on Windows VM.</p>
+        </article>
+        <article>
+          <h4><a href="projects/fim.html">File Integrity Monitor</a></h4>
+          <p>PowerShell baseline &amp; monitoring.</p>
+        </article>
+        <article>
+          <h4><a href="projects/fullstack.html">Full-Stack Web App</a></h4>
+          <p>React, Node.js, Azure &amp; ML demo app.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="intro">
+      <p>
+        Studying CS at La Trobe University—passionate about cloud security &amp; ML. 
+        <a href="about.html">Learn more →</a>
+      </p>
     </section>
   </main>
 
-  <footer id="contact" class="p-6 bg-gray-100 text-center">
-    <p>📫 <a href="mailto:youremail@example.com">youremail@example.com</a></p>
-    <p>🔗 <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> • <a href="https://github.com/Dyl257" target="_blank">GitHub</a></p>
+  <footer id="contact">
+    <h4>Get in Touch</h4>
+    <p>Email: <a href="mailto:you@example.com">you@example.com</a></p>
+    <p>
+      <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+      <a href="https://github.com/Dyl257">GitHub</a>
+    </p>
   </footer>
 </body>
 </html>
+
