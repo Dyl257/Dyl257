@@ -1,50 +1,30 @@
-<h1>Hi, I'm Dylan! <br/>
-  <a href="https://github.com/Dyl257">Programmer</a>, 
-  <a href="">Cybersecurity Professional</a>, 
-</h1>
+# Dylan Fernando
 
-<h2>👨‍💻 Software Development Projects:</h2>
+[![GitHub followers](https://img.shields.io/github/followers/Dyl257?style=social)](https://github.com/Dyl257)
 
-<ul>
-  <li><b>Cyber Security</b>
-    <ul>
-      <!-- New Vulnerability Scanning bullet -->
-      <li>
-        <a href="https://github.com/Dyl257/Dyl257/tree/Vulnerability" target="_blank">
-          Vulnerability Scanning Lab (Azure + Tenable)
-        </a>
-        – Hands‐on demo of running unauthenticated vs. authenticated scans 
-        against a Windows 10 VM. Includes step‐by‐step setup:  
-        VM configuration, disabling Windows Firewall, setting 
-        LocalAccountTokenFilterPolicy, and comparing scan results.
-      </li>
-      <!-- You can keep any other cybersecurity bullets here -->
-    </ul>
-  </li>
+I’m a software developer and cybersecurity professional. This repo contains the source for my GitHub Pages portfolio **and** the code for all my public projects.
 
-  <li><b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b></li>
+---
 
-  <li><b>PowerShell</b>
-    <ul>
-      <li>
-        <a href="https://github.com/Dyl257/File-Integrity-Monitor-/blob/main/README.md" target="_blank">
-          FIM (File Integrity Monitor)
-        </a>
-      </li>
-    </ul>
-  </li>
+## 📂 Portfolio Site
+Live demo: [Dyl257.github.io/your-repo-name](https://Dyl257.github.io/your-repo-name/)
 
-  <li><b>C# (.NET Desktop Applications)</b></li>
+Source in `/docs/` (or the branch you’ve configured under Settings → Pages).
 
-  <li><b>Python</b></li>
-</ul>
+---
 
-<h2>📺 YouTube Explanation</h2>
+## 🚀 Projects
 
-<ul>
-  <li>
-    <a href="https://youtu.be/Vn_L0xCZq7M?si=85hbWY88JREd2cCz" target="_blank">
-      File Integrity Monitor
-    </a>
-  </li>
-</ul>
+| Project | Tech | Description |
+| ------- | ---- | ----------- |
+| [Vulnerability Scanning Lab](https://github.com/Dyl257/Dyl257/tree/Vulnerability) | Azure, Tenable, PowerShell | Una vs. Authenticated scans on Windows 10 VM  |
+| [File Integrity Monitor](https://github.com/Dyl257/File-Integrity-Monitor-/) | PowerShell                 | Baseline & watch file hashes for tampering         |
+| [Full-Stack App](https://github.com/Dyl257/your-fullstack-repo) | React, Node, Azure, ML | … |
+| …       | …    | …                                            |
+
+---
+
+## 📫 Get in Touch
+- Email: youremail@example.com  
+- LinkedIn: https://linkedin.com/in/yourprofile  
+
