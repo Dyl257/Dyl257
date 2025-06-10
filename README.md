@@ -22,7 +22,7 @@ Includes step‐by‐step setup: VM provisioning, agent group creation, scan con
 *Terminal output showing “INSTALL PASSED” and auto-configuration complete.*
 
 ### 4. Verify Agent Online  
-![Agent in Portal](./images/Agent_Appearing_in_Portal.PNG)  
+![Agent in Portal](docs/projects/vuln-scan/agent based/Agent Appearing in Portal.PNG)  
 *Agent status “Online” with IP, Platform, and “Linked on” timestamp.*
 
 ### 5. Configure & Trigger Scan  
