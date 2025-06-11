@@ -16,7 +16,7 @@ Includes step‐by‐step setup: VM provisioning, agent group creation, scan con
 *“Linux-agent-group-Dylan” created under **Sensors → Agent Groups**.*
 
 ### 3. Install & Link Agent  
-![Install Command](./images/install-command.PNG)
+![Install Command](./images/install_command.PNG)
 *`curl -H 'X-Key: …' 'https://sensor.cloud.tenable/install/agent?...' | bash`*  
 ![Successful Agent Install](./images/Successful_Agent_Install.PNG)  
 *Terminal output showing “INSTALL PASSED” and auto-configuration complete.*
