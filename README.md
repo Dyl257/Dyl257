@@ -37,13 +37,6 @@ Includes step‐by‐step setup: VM provisioning, agent group creation, scan con
 
 ---
 
-## 🔗 Links
-
-- 👉 [Live demo video (YouTube)](https://youtu.be/Vn_L0xCZq7M?si=85hbWY88JREd2cCz)  
-- 👉 [Project source on GitHub](https://github.com/Dyl257/Dyl257/tree/Vulnerability)
-
----
-
 ## 🧰 Tech Stack
 
 - **Platform:** Azure Linux VM (Ubuntu 16.04)  
