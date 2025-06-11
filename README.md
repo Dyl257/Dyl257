@@ -20,7 +20,7 @@ Source in `/docs/` (or the branch you’ve configured under Settings → Pages).
 | [Vulnerability Scanning Lab](https://github.com/Dyl257/Dyl257/tree/Vulnerability) | Azure, Tenable, PowerShell | Una vs. Authenticated scans on Windows 10 VM  |
 | [File Integrity Monitor](https://github.com/Dyl257/File-Integrity-Monitor-/) | PowerShell                 | Baseline & watch file hashes for tampering         |
 | [Full-Stack App](https://github.com/Dyl257/your-fullstack-repo) | React, Node, Azure, ML | … |
-| [Vulnerability Scanning](https://github.com/Dyl257/Dyl257/tree/Vulnerability) | Bash, Azure, Tenable | … |
+| [Programmatic Vulnerability Remediation](https://github.com/Dyl257/Dyl257/tree/Vulnerability) | Bash, Azure Ubuntu, Tenable | Automated creation and remediation of Linux vulnerabilities using Bash scripting and Tenable.io Agents on an Azure VM. |
 | …       | …    | …                                            |
 
 ---
