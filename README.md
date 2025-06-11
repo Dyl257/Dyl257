@@ -8,7 +8,7 @@ Includes step‐by‐step setup: VM provisioning, agent group creation, scan con
 ## 🛠️ Steps & Screenshots
 
 ### 1. VM Provisioning  
-![VM Overview](.docs/projects/vuln-scan/images/VMcreation.PNG)  
+![VM Overview](./images/VMcreation.PNG)
 *Azure Portal showing `linux-scan-agent-dylan` VM details (Size, OS, IP).*
 
 ### 2. Create Agent Group  
