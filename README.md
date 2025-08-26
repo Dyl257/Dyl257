@@ -26,6 +26,6 @@ Source in `/docs/` (or the branch you’ve configured under Settings → Pages).
 ---
 
 ## 📫 Get in Touch
-- Email: youremail@example.com  
+- Email: dylanfernando424@gmail.com  
 - LinkedIn: https://linkedin.com/in/yourprofile  
 
